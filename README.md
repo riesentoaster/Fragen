@@ -1,4 +1,3 @@
-# Fragen
 ## Grün – Einstieg
 -   Gibt es eine Fähigkeit, welche du wirklich beherrschen möchtest?
 -   Was ist das Coolste, was du in deinem Leben schon gemacht hast?
