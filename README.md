@@ -1,6 +1,6 @@
 Eine Frage [vorschlagen](mailto:frage@valentinhuber.me?subject=Vorschlag für eine Frage).
 
-## Grün – Einstieg
+## Einstieg
 -   Gibt es eine Fähigkeit, welche du wirklich beherrschen möchtest?
 -   Was ist das Coolste, was du in deinem Leben schon gemacht hast?
 -   Was ist deine Story mit Jesus?
@@ -21,7 +21,7 @@ Eine Frage [vorschlagen](mailto:frage@valentinhuber.me?subject=Vorschlag für ei
 -   Wovon erzählst du gerne?
 -   Zeig mir die beste Nachahmung von mir!
 
-## Gelb – Tiefer
+## Tiefer
 -   Auf einer Skala von 1–10, wie bewertest du dein Leben? Was könntest du tun, um es zu verbessern?
 -   Auf welche deiner Leistungen / Errungenschaften bist du am meisten Stolz?
 -   Auf welchen deiner Freunde bist du am meisten stolz? Warum?
@@ -64,7 +64,7 @@ Eine Frage [vorschlagen](mailto:frage@valentinhuber.me?subject=Vorschlag für ei
 -   Was ist eine (Bibel-)Geschichte, die dir besonders wichtig ist?
 
 
-## Rot – Persönlich
+## Persönlich
 - Bist du da im Leben, wo du zum jetzigen Zeitpunkt sein wolltest?
 - Erzähle von einem peinlichen Erlebnis in deinem Leben.
 - Was bricht dein Herz?
