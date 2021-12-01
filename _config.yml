@@ -1,3 +1,3 @@
-baseurl: "https://fragen.valentinhuber.me"
 sass:
-  style: :expanded
+  sass_dir: _sass
+  style: compressed
